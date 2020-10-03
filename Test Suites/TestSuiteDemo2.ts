@@ -14,7 +14,13 @@
    <testCaseLink>
       <guid>7dd544cc-db0e-4f1d-b9f3-a8dbf00fe3e5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Demo/RecordModeDemo</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2753bb77-72ba-4d34-8513-70d510bdc0a7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo/ManualModeDemo</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
